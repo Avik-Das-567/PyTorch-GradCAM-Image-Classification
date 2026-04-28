@@ -14,7 +14,7 @@ Grad-CAM is useful because it connects classification output with spatial eviden
 
 ## Dataset
 
-The project uses a small supervised image dataset described by a CSV file with two columns:
+The project uses a labeled image classification dataset described by a CSV file with two columns:
 
 - `img_path`: relative path to the image file.
 - `label`: integer-encoded class label.
