@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch: Grad-CAM Visual Explainability
+# CNN Image Classification with PyTorch and Grad-CAM
 
 This project builds a convolutional neural network in PyTorch for three-class image classification and applies Gradient-weighted Class Activation Mapping (Grad-CAM) to explain the model's class-specific predictions. The classifier distinguishes between cucumber, eggplant, and mushroom images, then uses gradients flowing into the final convolutional representation to produce heatmaps that highlight the image regions most responsible for a selected class score.
 
