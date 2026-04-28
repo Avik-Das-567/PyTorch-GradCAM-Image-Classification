@@ -6,7 +6,7 @@ Grad-CAM is useful because it connects classification output with spatial eviden
 
 ## Objectives
 
-- Understand the end-to-end Grad-CAM pipeline for image classification.
+- Create an end-to-end Grad-CAM pipeline for image classification.
 - Build a custom image dataset workflow from CSV image paths and numeric labels.
 - Train and validate a compact convolutional neural network using PyTorch.
 - Capture class-specific gradients from the final convolutional feature maps.
