@@ -4,7 +4,7 @@ This project builds a convolutional neural network in PyTorch for three-class im
 
 Grad-CAM is useful because it connects classification output with spatial evidence. Instead of only returning logits or predicted labels, the model can be inspected visually to understand whether its decision is driven by meaningful object regions or by irrelevant background features.
 
-## Learning Objectives
+## Objectives
 
 - Understand the end-to-end Grad-CAM pipeline for image classification.
 - Build a custom image dataset workflow from CSV image paths and numeric labels.
